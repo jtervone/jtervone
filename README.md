@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Jarkko Tervonen, full stack developer working in Finland with 25 years of experience of web developing. Most of the time I have developed content management systems and other marketing tools. Currently I'm working at @lianatech.
+I'm Jarkko Tervonen, full stack developer working in Finland with 25 years of experience of web developing. Most of the time I have developed content management systems and other marketing tools. Currently I'm working at [@lianatech](https://github.com/lianatech).
 
 In daily life I use `.php`, `.js`, `.sql`, `.html`, and `.css`. I'm also very interested to study new languages and test a new frameworks (frontend, backend and testing). In addition to this I'm very familiar with various cloud environments and CI/CD systems.
 
