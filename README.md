@@ -1,13 +1,14 @@
 Hi there 👋
 
-I'm Jarkko Tervonen, full stack developer working in Finland with 25 years of experience of web developing. Most of the time I have developed content management systems and other marketing tools. Currently I'm working at [@lianatech](https://github.com/lianatech).
+I'm Jarkko Tervonen, a full stack developer from Finland with 30 years of web development experience. Most of my career I've built content management systems and marketing tools. Currently I work at [@lianatech](https://github.com/lianatech).
 
-In daily life I use `.php`, `.js`, `.sql`, `.html`, and `.css`. I'm also very interested to study new languages and test a new frameworks (frontend, backend and testing). In addition to this I'm very familiar with various cloud environments and CI/CD systems.
+Day to day I work with **TypeScript**, **PHP**, **SQL**, **HTML** and **CSS**, plus plenty of shell scripting. I'm comfortable with cloud environments and CI/CD pipelines, and I enjoy trying out new languages and frameworks across the frontend, backend and testing. Lately I've been building AI-assisted developer tooling and tinkering with my homelab.
 
-My days is not fullfilled by programming and developing. I like to do sports like (mountain) biking, cross country skiing and running. Also you can find me at hiking paths or photographing birds in the woods.
+Away from the keyboard you'll find me (mountain) biking, cross-country skiing, running, hiking, or photographing birds in the woods.
 
-You can reach me at
-- [Twitter](https://twitter.com/jarkkotervonen)
-- [Instagram](https://instagram.com/jarkkotervonen/)
+You can find me at
+- [jarkko.dev](https://jarkko.dev/) – home page and [blog](https://jarkko.dev/blog/)
+- [Mastodon](https://mstdn.rcode.fi/@jarkkotervonen)
 - [LinkedIn](https://www.linkedin.com/in/jarkkotervonen)
-- [Blog](https://jarkkotervonen.com/) (only in Finnish)
+- [Instagram](https://www.instagram.com/jarkkotervonen/)
+- [jarkkotervonen.com](https://jarkkotervonen.com/) – blog in Finnish
