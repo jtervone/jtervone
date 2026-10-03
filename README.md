@@ -4,7 +4,7 @@ I'm Jarkko Tervonen, a full stack developer from Finland with 30 years of web de
 
 Day to day I work with **TypeScript**, **PHP**, **SQL**, **HTML** and **CSS**, plus plenty of shell scripting. I'm comfortable with cloud environments and CI/CD pipelines, and I enjoy trying out new languages and frameworks across the frontend, backend and testing. Lately I've been building AI-assisted developer tooling and tinkering with my homelab.
 
-Away from the keyboard you'll find me (mountain) biking, cross-country skiing, running, hiking, or photographing birds in the woods.
+Away from the keyboard you'll find me (mountain) biking, playing disc golf, cross-country skiing, running, hiking, or photographing birds in the woods.
 
 You can find me at
 - [jarkko.dev](https://jarkko.dev/) – home page and [blog](https://jarkko.dev/blog/)
