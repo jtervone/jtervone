@@ -9,6 +9,7 @@ Away from the keyboard you'll find me (mountain) biking, playing disc golf, cros
 You can find me at
 - [jarkko.dev](https://jarkko.dev/) – home page and [blog](https://jarkko.dev/blog/)
 - [Mastodon](https://mstdn.rcode.fi/@jarkkotervonen)
+- [X](https://x.com/jarkkotervonen)
 - [LinkedIn](https://www.linkedin.com/in/jarkkotervonen)
 - [Instagram](https://www.instagram.com/jarkkotervonen/)
 - [jarkkotervonen.com](https://jarkkotervonen.com/) – blog in Finnish
