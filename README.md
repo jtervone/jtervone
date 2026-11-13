@@ -13,3 +13,8 @@ You can find me at
 - [LinkedIn](https://www.linkedin.com/in/jarkkotervonen)
 - [Instagram](https://www.instagram.com/jarkkotervonen/)
 - [jarkkotervonen.com](https://jarkkotervonen.com/) – blog in Finnish
+
+## Tools I use
+- Omarchy
+- Herdr
+- Claude Code
