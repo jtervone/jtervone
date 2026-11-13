@@ -1,0 +1,5 @@
+config:
+  # Prose paragraphs are written as one line each.
+  MD013: false
+  # A profile README opens with a greeting, not a heading.
+  MD041: false
