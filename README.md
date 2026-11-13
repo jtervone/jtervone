@@ -7,6 +7,7 @@ Day to day I work with **TypeScript**, **PHP**, **SQL**, **HTML** and **CSS**, p
 Away from the keyboard you'll find me (mountain) biking, playing disc golf, cross-country skiing, running, hiking, or photographing birds in the woods.
 
 You can find me at
+
 - [jarkko.dev](https://jarkko.dev/) – home page and [blog](https://jarkko.dev/blog/)
 - [Mastodon](https://mstdn.rcode.fi/@jarkkotervonen)
 - [X](https://x.com/jarkkotervonen)
